@@ -1,0 +1,26 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Alex tech notes",
+	"icon": "https://micro.blog/stanzinofree/avatar.jpg",
+	"home_page_url": "https://stanzinofree.micro.blog/",
+	"feed_url": "https://stanzinofree.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://stanzinofree.micro.blog/2023/04/10/super-mario-stiamo.html",
+				
+				"content_html": "<p><em>Super Mario</em> stiamo arrivando!!!\nOggi finalmente al cinema coi bimbi</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "*Super Mario* stiamo arrivando!!!\nOggi finalmente al cinema coi bimbi\n\n<img src=\"uploads/2023/372ae97029.jpg\" width=\"600\" height=\"710\" alt=\"\" />\n",
+				"date_published": "2023-04-10T13:34:36+02:00",
+				"url": "https://stanzinofree.micro.blog/2023/04/10/super-mario-stiamo.html"
+			},
+			{
+				"id": "http://stanzinofree.micro.blog/2023/04/10/iniziamo-questa-avventura.html",
+				
+				"content_html": "<p>Iniziamo questa avventura di micro blogging.\nUn modo veloce e rapido per annotare le mie idee, i miei progetti e i miei progressi.</p>\n<p>Alex</p>\n",
+				"content_text": "Iniziamo questa avventura di micro blogging.\r\nUn modo veloce e rapido per annotare le mie idee, i miei progetti e i miei progressi.\r\n\r\nAlex\n",
+				"date_published": "2023-04-10T12:03:10+02:00",
+				"url": "https://stanzinofree.micro.blog/2023/04/10/iniziamo-questa-avventura.html"
+			}
+	]
+}
